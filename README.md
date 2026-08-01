@@ -9,7 +9,7 @@ A content-based recommendation engine built across a combined Kaggle + TMDB data
 - Handles large-scale data efficiently
 
 ## Tech Stack
-Python · Scikit-learn · Pandas · TF-IDF · TMDB API · Streamlit
+Python · Scikit-learn · Pandas · TF-IDF · TMDB API · Streamlit · fuzzywuzzy
 
 ## Demo
 Due to the extensive dataset this project is best showcased via demo video.
